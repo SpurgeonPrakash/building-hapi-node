@@ -1,0 +1,26 @@
+{
+  "name": "fitbit-hapi-lynda",
+  "version": "1.0.0",
+  "description": "Example code demonstrating basic fitbit-node functionality with hapi",
+  "main": "implement-subscription.js",
+  "author": "Kirsten Hunter",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "fitbit-node": "^2.0",
+    "hapi": "^11.0.0",
+    "mongoose": "^4.7",
+    "nodemon": "^1.18.3",
+    "q": "^1.4.1"
+  },
+  "engines": {
+    "node": "^4.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremiahlee/fitbit-hapi-demo.git"
+  },
+  "scripts": {
+    "start": "node implement-subscription.js"
+  }
+}
