@@ -6,20 +6,21 @@
   "author": "Kirsten Hunter",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^0.0.3",
+    "fitbit-node": "^2.0",
     "hapi": "^11.0.0",
-    "mongoose":"^4.7",
-    "fitbit-node":"^2.0",
-    "q":"^1.4.1",
-    "crypto":"^0.0.3"
+    "mongoose": "^4.7",
+    "nodemon": "^1.18.3",
+    "q": "^1.4.1"
   },
   "engines": {
     "node": "^4.2.1"
   },
-  "repository":{
-    "type" : "git",
-    "url" : "https://github.com/jeremiahlee/fitbit-hapi-demo.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremiahlee/fitbit-hapi-demo.git"
   },
   "scripts": {
     "start": "node implement-subscription.js"
-  } 
+  }
 }
