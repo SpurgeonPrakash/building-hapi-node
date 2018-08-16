@@ -67,6 +67,8 @@ DELETE a todo
 Installation Guide on Ubuntu: https://blog.bluematador.com/posts/postman-how-to-install-on-ubuntu-1604/
 
 ### References
+https://github.com/synedra/hapi-api
 https://github.com/PacktPublishing/BuildingAPIDevelopmentwithNode.js
+
 
 
